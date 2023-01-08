@@ -1,5 +1,4 @@
-[![Header](https://github.com/nokorokov/dou-qa.jpg)](https://t.me/WhiskeyHang)
-
+[![Header](https://github.com/nokorokov/nokorokov/blob/3c113055b00de672f47b6c6f920cd57be33a4828/dou-qa.jpg)](https://t.me/WhiskeyHang)
 
 # Hello everyone
  my name is Nikita and I'm the Head of QA, at the wonderful company ITPELAG.
