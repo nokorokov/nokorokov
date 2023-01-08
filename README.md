@@ -1,4 +1,4 @@
-[![Header](https://github.com/nokorokov/CV/blob/main/assets/dou-qa.jpg)](https://t.me/WhiskeyHang)
+[![Header](https://github.com/nokorokov/nokorokov/blob/main/assets/dou-qa.jpg)](https://t.me/WhiskeyHang)
 
 
 # Hello everyone
