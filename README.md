@@ -3,7 +3,7 @@
 # Hello everyone
  my name is Nikita and I'm the Head of QA, at the wonderful company ITPELAG.
  I specialize in web testing, API testing, as well as crypto/blockchain projects.
-At the moment I am studying automated testing using Python and Selenium
+At the moment I am studying autotesting using Python and Selenium
 
 
 In my free time I prefer
